@@ -1,0 +1,181 @@
+[
+ {
+  "id": "C001",
+  "nom": "Menuiserie Dupont & Fils",
+  "domaine": "dupont-menuiserie.fr",
+  "remise": 0.08,
+  "ref_commande_obligatoire": false,
+  "sites": [
+   "12 rue des Artisans, 69007 Lyon"
+  ],
+  "historique": [
+   {
+    "date": "2026-09-15",
+    "lignes": [
+     {
+      "sku": "VBF-A2-5X40",
+      "qte": 4
+     },
+     {
+      "sku": "CHV-NY-8",
+      "qte": 2
+     },
+     {
+      "sku": "CHI-SIL-TR",
+      "qte": 6
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "C002",
+  "nom": "Atelier Métallerie Rhône (AMR)",
+  "domaine": "amr-metal.fr",
+  "remise": 0.12,
+  "ref_commande_obligatoire": false,
+  "sites": [
+   "Site de Vénissieux : 45 avenue Jean Jaurès, 69200 Vénissieux",
+   "Site de Givors : 8 quai du Rhône, 69700 Givors"
+  ],
+  "historique": [
+   {
+    "date": "2026-09-22",
+    "lignes": [
+     {
+      "sku": "VTH-ZN-M10X40",
+      "qte": 4
+     },
+     {
+      "sku": "ECR-ZN-M10",
+      "qte": 2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "C003",
+  "nom": "BTP Ferrand",
+  "domaine": "ferrand-btp.com",
+  "remise": 0.1,
+  "ref_commande_obligatoire": false,
+  "sites": [
+   "ZI des Platières, 69120 Vaulx-en-Velin"
+  ],
+  "historique": []
+ },
+ {
+  "id": "C004",
+  "nom": "Garage Martin Auto",
+  "domaine": "garagemartin.fr",
+  "remise": 0.05,
+  "ref_commande_obligatoire": false,
+  "sites": [
+   "3 route de Grenoble, 69800 Saint-Priest"
+  ],
+  "historique": []
+ },
+ {
+  "id": "C005",
+  "nom": "Maintenance Industrielle Savoie (MIS)",
+  "domaine": "mis-savoie.fr",
+  "remise": 0.15,
+  "ref_commande_obligatoire": false,
+  "sites": [
+   "150 rue de l'Industrie, 73000 Chambéry"
+  ],
+  "historique": [
+   {
+    "date": "2026-09-12",
+    "lignes": [
+     {
+      "sku": "EPI-GNI-T9",
+      "qte": 5
+     },
+     {
+      "sku": "CHI-DEG-500",
+      "qte": 12
+     },
+     {
+      "sku": "COL-NR-4.8X300",
+      "qte": 3
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "C006",
+  "nom": "Électricité Blanc",
+  "domaine": "elec-blanc.fr",
+  "remise": 0.05,
+  "ref_commande_obligatoire": false,
+  "sites": [
+   "27 rue Paul Bert, 69003 Lyon"
+  ],
+  "historique": []
+ },
+ {
+  "id": "C007",
+  "nom": "Agencements Leroy",
+  "domaine": "leroy-agencement.fr",
+  "remise": 0.07,
+  "ref_commande_obligatoire": false,
+  "sites": [
+   "5 allée des Cèdres, 69500 Bron"
+  ],
+  "historique": []
+ },
+ {
+  "id": "C008",
+  "nom": "Chaudronnerie Vidal",
+  "domaine": "chaudronnerie-vidal.fr",
+  "remise": 0.1,
+  "ref_commande_obligatoire": false,
+  "sites": [
+   "ZA du Mornantet, 69440 Mornant"
+  ],
+  "historique": [
+   {
+    "date": "2026-09-08",
+    "lignes": [
+     {
+      "sku": "DIS-TRO-125X1.0",
+      "qte": 4
+     },
+     {
+      "sku": "DIS-LAM-125-G60",
+      "qte": 2
+     },
+     {
+      "sku": "EPI-GAC-T10",
+      "qte": 3
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "C009",
+  "nom": "Ville de Villeurbanne - Services techniques",
+  "domaine": "mairie-villeurbanne.fr",
+  "remise": 0.0,
+  "ref_commande_obligatoire": true,
+  "sites": [
+   "Centre technique municipal, 30 rue Octavie, 69100 Villeurbanne"
+  ],
+  "historique": []
+ },
+ {
+  "id": "C010",
+  "nom": "Morel Paysage",
+  "domaine": "morel-paysage.fr",
+  "remise": 0.03,
+  "ref_commande_obligatoire": false,
+  "sites": [
+   "Chemin des Vignes, 69380 Lozanne"
+  ],
+  "historique": []
+ }
+]
